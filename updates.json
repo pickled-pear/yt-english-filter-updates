@@ -3,6 +3,11 @@
     "yt-english-filter@chadicus.roundtable": {
       "updates": [
         {
+          "version": "1.3.2",
+          "update_link": "https://github.com/pickled-pear/yt-english-filter-updates/releases/download/v1.3.2/3f61e34776fa4515b4ab-1.3.2.xpi",
+          "update_hash": "sha256:0cd35faf174c484216b0e165ab67c0a90afb00836ef3beaf4076576ffbfcb6eb"
+        },
+        {
           "version": "1.3.1",
           "update_link": "https://github.com/pickled-pear/yt-english-filter-updates/releases/download/v1.3.1/3f61e34776fa4515b4ab-1.3.0.xpi",
           "update_hash": "sha256:415205efb91df782cecce99f9f8173cb5b5c1feb5d04e4481ae7347fb1876c56"
